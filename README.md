@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the course site for CMS.S62! 
+
+Digital Humanities II: Data, Archives, Interfaces
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rachelpt/dhII2018test.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
